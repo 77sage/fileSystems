@@ -1,0 +1,29 @@
+name: rei
+favicon: null
+layout_spectrum: 0.3867
+typography_spectrum: 0.72299
+title: Musings
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#1b0940'
+    - '#ffffff'
+    - '#a2a0ac'
+    - '#716886'
+    - '#4e3757'
+  brandStrength: 0.1875
+  lightness: 0.5
+  saturation: 0.25
+  rhythmicContrast: 0.25
+purpose: []
